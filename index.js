@@ -10,7 +10,7 @@ client.player = player;
 
 let komutDosya = "./komutlar"
 let event = "./eventlar"
-let gelistiricler = ["ID"]
+let gelistiricler = ["702529104485941340"]
 let owner = true;
 let defaultCommands = ["ping"]; 
 
