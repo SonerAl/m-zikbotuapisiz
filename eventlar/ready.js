@@ -3,7 +3,7 @@ module.exports = (client) => {
 
 var oynuyorkısımları = [
 "Prefix:!",
-"Narcos Bot",
+"Candy ♥ Moon",
 
 ]
 
